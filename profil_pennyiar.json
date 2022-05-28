@@ -1,0 +1,72 @@
+[
+  {
+    "profil": "direktur_budi",
+    "nama" : "Dr. Siti Jaiyaroh, M.Pd.",
+    "posisi" : "Direktur",
+    "deskripsi" : "Dr. Siti Jaiyaroh, M.Pd. menjabat sebagai direktur Suara Gresik.",
+    "jadwal" : "-",
+    "instagram" : "-",
+    "twitter" : "-",
+    "facebook" : "-"
+  },
+  {
+    "profil": "penyiar_yuli",
+    "nama" : "Sri Yuliani",
+    "posisi" : "Penyiar",
+    "deskripsi" : "Sri Yuliani merupakan penyiar kondang di Suara Gresik. Spesialis Smart Branding dan Lagu Female",
+    "jadwal" : "Senin",
+    "instagram" : "-",
+    "twitter" : "-",
+    "facebook" : "-"
+  },
+  {
+    "profil": "penyiar_hani",
+    "nama" : "Isyatun Haniyah",
+    "posisi" : "Penyiar",
+    "deskripsi" : "Isyatun Haniyah merupakan penyiar di Suara Gresik. Spesialis Smart Living dan Lagu Man",
+    "jadwal" : "Selasa",
+    "instagram" : "-",
+    "twitter" : "-",
+    "facebook" : "-"
+  },
+  {
+    "profil": "penyiar_kevin",
+    "nama" : "Kevin Candra H",
+    "posisi" : "Penyiar",
+    "deskripsi" : "Kevin Candra H merupakan penyiar di Suara Gresik. Spesialis Good Governement dan Lagu Old Dies",
+    "jadwal" : "Rabu",
+    "instagram" : "-",
+    "twitter" : "-",
+    "facebook" : "-"
+  },
+  {
+    "profil": "penyiar_evi",
+    "nama" : "Evi Thalita",
+    "posisi" : "Penyiar",
+    "deskripsi" : "Evi Thalita merupakan penyiar kondang di Suara Gresik. Spesialis Smart Environment dan Lagu Group",
+    "jadwal" : "Kamis",
+    "instagram" : "-",
+    "twitter" : "-",
+    "facebook" : "-"
+  },
+  {
+    "profil": "penyiar_abil",
+    "nama" : "Ima'dudin Abil I.A.S",
+    "posisi" : "Penyiar",
+    "deskripsi" : "Ima'dudin Abil I.A.S merupakan penyiar di Suara Gresik. Spesialis Smart Economy dan Lagu Religi",
+    "jadwal" : "Jumat",
+    "instagram" : "-",
+    "twitter" : "-",
+    "facebook" : "-"
+  },
+  {
+    "profil": "penyiar_ruzar",
+    "nama" : "Muhammad Mahruzar I",
+    "posisi" : "Penyiar",
+    "deskripsi" : "Muhammad Mahruzar I merupakan penyiar di Suara Gresik. Spesialis Smart Society dan Lagu Baru",
+    "jadwal" : "Minggu",
+    "instagram" : "-",
+    "twitter" : "-",
+    "facebook" : "-"
+  }
+]
